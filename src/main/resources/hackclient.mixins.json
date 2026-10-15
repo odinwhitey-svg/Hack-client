@@ -1,0 +1,7 @@
+{
+  "required": false,
+  "package": "com.example.hackclient.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": ["XrayMixin"],
+  "injectors": { "defaultRequire": 0 }
+}
